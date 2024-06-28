@@ -12,7 +12,7 @@ Color codes are just palette colors
 ## Palettes
 Palettes are a collection of color codes.
 Instead of having to write out the hex code each time for a color, just reference them by their **code**.
-See a list of palettes by typing `/palettes`. Click on a palette to see their color codes.
+See a list of palettes by typing `/palettes`. Hover over the palette to see its ID/name. Click on a palette to see their color codes.
 Hover over the square with the color that you want to see the color code, and click on it to copy it to your clipboard.
 Paste the code after a typing a `&` i.e. `&bf1`.
 
