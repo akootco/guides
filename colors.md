@@ -27,7 +27,7 @@ You can combine multiple colors to form a gradient!
   - `&palette#` - Creates a gradient from all the palette colors (shuffled)
 
 ## Functions
-- **Random Color** - `&x[0-200]` where you enter a number **between 0 and 200** after `&x`
+- **Random Color** - `&x[0-200]` where you enter a number **between 0 and 200** after `&x`. The number is how bright the random color will be (default value is 100)
 - **Invert Color** - `&(...)!` where you put a **!** at the end of your color code(s) to invert them
 - **Random Color from a palette** - `&palette?`
 
